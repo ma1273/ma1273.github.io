@@ -1,0 +1,10 @@
+---
+layout : post
+title: "New Hampshire Traffic Stop Analysis"
+data: 2019-10-31
+---
+
+Developed a R shiny app to visualize traffic stops across New Hampshire. 
+Explored commonalities between stops and geographic anomalies.   
+This helped the audience determine most popular traffic stop locations and most common types of stops and during what time of year.  
+
