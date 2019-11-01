@@ -1,6 +1,6 @@
 ---
 layout : post
-title: "New Hampshire Traffic Stop Analysis"
+title: "Gap Minder Dataset Analysis Poster"
 data: 2019-10-31
 ---
 Below is a poster describing a summer project where we looked at indicators from the gapminder dataset.
